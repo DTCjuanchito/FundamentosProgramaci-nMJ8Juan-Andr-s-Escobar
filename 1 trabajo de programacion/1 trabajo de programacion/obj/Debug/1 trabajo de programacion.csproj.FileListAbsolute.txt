@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\1 trabajo de programacion\1 trabajo de programacion\bin\Debug\1 trabajo de programacion.exe.config
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\1 trabajo de programacion\1 trabajo de programacion\bin\Debug\1 trabajo de programacion.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\1 trabajo de programacion\1 trabajo de programacion\bin\Debug\1 trabajo de programacion.pdb
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\1 trabajo de programacion\1 trabajo de programacion\obj\Debug\1 trabajo de programacion.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\1 trabajo de programacion\1 trabajo de programacion\obj\Debug\1 trabajo de programacion.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\1 trabajo de programacion\1 trabajo de programacion\obj\Debug\1 trabajo de programacion.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\1 trabajo de programacion\1 trabajo de programacion\obj\Debug\1 trabajo de programacion.pdb
