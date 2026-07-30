@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\2.ConstantesTiDatOperadores\2.ConstantesTiDatOperadores\bin\Debug\2.ConstantesTiDatOperadores.exe.config
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\2.ConstantesTiDatOperadores\2.ConstantesTiDatOperadores\bin\Debug\2.ConstantesTiDatOperadores.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\2.ConstantesTiDatOperadores\2.ConstantesTiDatOperadores\bin\Debug\2.ConstantesTiDatOperadores.pdb
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\2.ConstantesTiDatOperadores\2.ConstantesTiDatOperadores\obj\Debug\2.ConstantesTiDatOperadores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\2.ConstantesTiDatOperadores\2.ConstantesTiDatOperadores\obj\Debug\2.ConstantesTiDatOperadores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\2.ConstantesTiDatOperadores\2.ConstantesTiDatOperadores\obj\Debug\2.ConstantesTiDatOperadores.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\2.ConstantesTiDatOperadores\2.ConstantesTiDatOperadores\obj\Debug\2.ConstantesTiDatOperadores.pdb
