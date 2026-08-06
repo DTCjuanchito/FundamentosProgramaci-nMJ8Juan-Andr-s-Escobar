@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\4CondicionalsimpleDoble\4CondicionalsimpleDoble\bin\Debug\4CondicionalsimpleDoble.exe.config
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\4CondicionalsimpleDoble\4CondicionalsimpleDoble\bin\Debug\4CondicionalsimpleDoble.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\4CondicionalsimpleDoble\4CondicionalsimpleDoble\bin\Debug\4CondicionalsimpleDoble.pdb
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\4CondicionalsimpleDoble\4CondicionalsimpleDoble\obj\Debug\4CondicionalsimpleDoble.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\4CondicionalsimpleDoble\4CondicionalsimpleDoble\obj\Debug\4CondicionalsimpleDoble.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\4CondicionalsimpleDoble\4CondicionalsimpleDoble\obj\Debug\4CondicionalsimpleDoble.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\4CondicionalsimpleDoble\4CondicionalsimpleDoble\obj\Debug\4CondicionalsimpleDoble.pdb
