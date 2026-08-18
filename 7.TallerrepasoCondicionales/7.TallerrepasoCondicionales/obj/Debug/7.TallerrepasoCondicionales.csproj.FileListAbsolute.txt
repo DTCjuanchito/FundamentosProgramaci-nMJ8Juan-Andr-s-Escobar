@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\7.TallerrepasoCondicionales\7.TallerrepasoCondicionales\bin\Debug\7.TallerrepasoCondicionales.exe.config
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\7.TallerrepasoCondicionales\7.TallerrepasoCondicionales\bin\Debug\7.TallerrepasoCondicionales.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\7.TallerrepasoCondicionales\7.TallerrepasoCondicionales\bin\Debug\7.TallerrepasoCondicionales.pdb
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\7.TallerrepasoCondicionales\7.TallerrepasoCondicionales\obj\Debug\7.TallerrepasoCondicionales.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\7.TallerrepasoCondicionales\7.TallerrepasoCondicionales\obj\Debug\7.TallerrepasoCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\7.TallerrepasoCondicionales\7.TallerrepasoCondicionales\obj\Debug\7.TallerrepasoCondicionales.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\7.TallerrepasoCondicionales\7.TallerrepasoCondicionales\obj\Debug\7.TallerrepasoCondicionales.pdb
