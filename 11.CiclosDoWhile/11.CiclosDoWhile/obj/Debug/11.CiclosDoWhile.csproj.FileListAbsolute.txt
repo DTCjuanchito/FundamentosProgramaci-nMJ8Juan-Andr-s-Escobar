@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\11.CiclosDoWhile\11.CiclosDoWhile\bin\Debug\11.CiclosDoWhile.exe.config
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\11.CiclosDoWhile\11.CiclosDoWhile\bin\Debug\11.CiclosDoWhile.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\11.CiclosDoWhile\11.CiclosDoWhile\bin\Debug\11.CiclosDoWhile.pdb
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\11.CiclosDoWhile\11.CiclosDoWhile\obj\Debug\11.CiclosDoWhile.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\11.CiclosDoWhile\11.CiclosDoWhile\obj\Debug\11.CiclosDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\11.CiclosDoWhile\11.CiclosDoWhile\obj\Debug\11.CiclosDoWhile.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\11.CiclosDoWhile\11.CiclosDoWhile\obj\Debug\11.CiclosDoWhile.pdb
