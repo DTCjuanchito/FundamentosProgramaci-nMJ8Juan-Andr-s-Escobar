@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\13.CiclosFor\13.CiclosFor\bin\Debug\13.CiclosFor.exe.config
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\13.CiclosFor\13.CiclosFor\bin\Debug\13.CiclosFor.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\13.CiclosFor\13.CiclosFor\bin\Debug\13.CiclosFor.pdb
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\13.CiclosFor\13.CiclosFor\obj\Debug\13.CiclosFor.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\13.CiclosFor\13.CiclosFor\obj\Debug\13.CiclosFor.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\13.CiclosFor\13.CiclosFor\obj\Debug\13.CiclosFor.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\13.CiclosFor\13.CiclosFor\obj\Debug\13.CiclosFor.pdb
