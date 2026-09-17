@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\1.TALLERVECTORESV2\1.TALLERVECTORESV2\bin\Debug\1.TALLERVECTORESV2.exe.config
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\1.TALLERVECTORESV2\1.TALLERVECTORESV2\bin\Debug\1.TALLERVECTORESV2.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\1.TALLERVECTORESV2\1.TALLERVECTORESV2\bin\Debug\1.TALLERVECTORESV2.pdb
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\1.TALLERVECTORESV2\1.TALLERVECTORESV2\obj\Debug\1.TALLERVECTORESV2.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\1.TALLERVECTORESV2\1.TALLERVECTORESV2\obj\Debug\1.TALLERVECTORESV2.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\1.TALLERVECTORESV2\1.TALLERVECTORESV2\obj\Debug\1.TALLERVECTORESV2.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\1.TALLERVECTORESV2\1.TALLERVECTORESV2\obj\Debug\1.TALLERVECTORESV2.pdb
