@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\16.ArreglosBidimensional\16.ArreglosBidimensional\obj\Debug\16.ArreglosBidimensional.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\16.ArreglosBidimensional\16.ArreglosBidimensional\obj\Debug\16.ArreglosBidimensional.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\16.ArreglosBidimensional\16.ArreglosBidimensional\bin\Debug\16.ArreglosBidimensional.exe.config
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\16.ArreglosBidimensional\16.ArreglosBidimensional\bin\Debug\16.ArreglosBidimensional.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\16.ArreglosBidimensional\16.ArreglosBidimensional\bin\Debug\16.ArreglosBidimensional.pdb
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\16.ArreglosBidimensional\16.ArreglosBidimensional\obj\Debug\16.ArreglosBidimensional.exe
+C:\Users\B09S104est\Desktop\Juan Andrés Escobar\Juan Andrés Escobar\FundamentosProgramaci-nMJ8Juan-Andr-s-Escobar\16.ArreglosBidimensional\16.ArreglosBidimensional\obj\Debug\16.ArreglosBidimensional.pdb
